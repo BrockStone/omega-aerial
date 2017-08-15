@@ -21,7 +21,12 @@ class Home extends Component {
 
 						<Grid.Row>
 							<Grid.Column textAlign="centered">
-								<Header as="h1" inverted>Your Answer to Aerial Media</Header>
+								<Header as="h1" inverted>
+									Your Answer to Aerial Media
+									<Header.Subheader>
+										We specialize in a wide range of applications
+									</Header.Subheader>
+								</Header>
 							</Grid.Column>
 						</Grid.Row>
 
