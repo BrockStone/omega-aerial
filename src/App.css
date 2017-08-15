@@ -1,13 +1,13 @@
-.App {
+.Home-Container {
   text-align: center;
 }
 
 .App-logo {
   padding-top: 5vh;
-  width: 15vw;
 }
 
-.App-header {
+
+.Home-Header {
   background: linear-gradient(#14233A, rgba(20,35,57,0.5), #14233A), url('./assets/mavic-mtn.jpg') no-repeat center; 
   background-size: cover; 
   height: 100vh;
